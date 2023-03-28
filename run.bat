@@ -1,0 +1,1 @@
+docker run -p 8086:8080 filipquark
